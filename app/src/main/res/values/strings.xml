@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UniverApp2</string>
+    <string name="get_rnd_num">Сгенирировать рандомное число</string>
+    <string name="download_res_btn">Загрузить страничку</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_schedule_menu">Загрузить расписание</string>
+    <string name="get_internet_page">Загрузить страничку</string>
+    <string name="get_text_dialog">Введите URL-адрес:</string>
+</resources>
